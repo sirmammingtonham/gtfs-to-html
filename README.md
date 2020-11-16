@@ -1,6 +1,8 @@
 
 # GTFS to HTML
 
+(modified to export various util functions for [smartrider](https://github.com/sirmammingtonham/smartrider))
+
 [![NPM version](https://img.shields.io/npm/v/gtfs-to-html.svg?style=flat)](https://www.npmjs.com/package/gtfs-to-html)
 [![David](https://img.shields.io/david/blinktaginc/gtfs-to-html.svg)]()
 [![npm](https://img.shields.io/npm/dm/gtfs-to-html.svg?style=flat)]()
